@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Удаляет MP4 видео анимации и его контейнер с главной страницы
-// @author       Ты
+// @author       ПростоФункция
 // @match        https://music.yandex.ru/*
 // @grant        none
 // ==/UserScript==
